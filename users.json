@@ -1,0 +1,82 @@
+[
+  {
+    "_id": {
+      "$oid": "63edd7cb506612acfe75f9e7"
+    },
+    "username": "user1",
+    "email": "user1@mail.com",
+    "password": "123456"
+  },
+  {
+    "_id": {
+      "$oid": "63fa4f68257caab7c7af123b"
+    },
+    "username": "user2",
+    "email": "user2@mail.com",
+    "password": "123456"
+  },
+  {
+    "_id": {
+      "$oid": "63fb630beb70791c7c4f0877"
+    },
+    "username": "user3",
+    "email": "user3@mail.com",
+    "password": "123456"
+  },
+  {
+    "_id": {
+      "$oid": "6424a299e1f9ebbc42ccebe1"
+    },
+    "username": "user4",
+    "email": "user4@mail.com",
+    "password": "123456"
+  },
+  {
+    "_id": {
+      "$oid": "644d2cf751f215b6b94a0bc0"
+    },
+    "username": "user5",
+    "email": "user5@mail.com",
+    "password": "123456"
+  },
+  {
+    "_id": {
+      "$oid": "644d2d0551f215b6b94a0bc2"
+    },
+    "username": "user6",
+    "email": "user6@mail.com",
+    "password": "123456"
+  },
+  {
+    "_id": {
+      "$oid": "644d2d0f51f215b6b94a0bc4"
+    },
+    "username": "user7",
+    "email": "user7@mail.com",
+    "password": "123456"
+  },
+  {
+    "_id": {
+      "$oid": "644d2d0f51f215b6b94a0bc6"
+    },
+    "username": "user8",
+    "email": "user8@mail.com",
+    "password": "123456"
+  },
+  {
+    "_id": {
+      "$oid": "644d2d0f51f215b6b94a0bc8"
+    },
+    "username": "user9",
+    "email": "user9@mail.com",
+    "password": "123456"
+  },
+  {
+    "_id": {
+      "$oid": "644d2d0f51f215b6b94a0bca"
+    },
+    "username": "user10",
+    "email": "user10@mail.com",
+    "password": "123456"
+  }
+]
